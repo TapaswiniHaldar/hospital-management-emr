@@ -1,7 +1,5 @@
 
-If you have any issues please send us mail at shiv_koirala@yahoo.com  more than happy to help you in understanding and installing. You can also <a href="https://www.ehospitalmanagementsystem.com/" target="_new">
- Chat with us here.
-</a> 
+If you have any issues please send us mail at tapaswinihaldar477@gmail.com  more than happy to help you in understanding and installing. 
  <br>
  If you wish to see demo <a href="http://202.51.74.168:175/" target="_blank">
  Click here
@@ -56,45 +54,8 @@ Use below `credentials` for login
 
 Need help?
 ==============
-If you have any issues please send us mail at shiv_koirala@yahoo.com  more than happy to help you in understanding and installing.
+If you have any issues please send us mail at tapaswinihaldar477@gmail.com more than happy to help you in understanding and installing.
 
-Installation & Setup
-======================
-Getting start with **DanpheEMR** Please visit <a href="https://opensource-emr.github.io/hospital-management-emr//#setup" target="_blank">
-    :point_right: Page
-</a>  and read it carefully. 
-Here you have details about requirements, configuration and setup.
-
-
-#### Development Setup
-
-+ This details for `developers` who wants to `clone DanpheEMR`, Use it and `help` us for improvements.
-+ We have all details like software and tools `requirements`
-+ Step by step guide for `build and run` project
-+ Database creation 
-`and more..`
-
-
-<a href="https://opensource-emr.github.io/hospital-management-emr/#setup" target="_blank">
-    :point_right: docs
-</a>
-
-Credits
-========
-
-## Sponsors
-All sponsors are here. Thanks all sponsors for your contributions.
-
-<a href="https://www.imarkdigital.com/" target="_blank">
-  <img src="https://user-images.githubusercontent.com/48054642/161473176-51fcb05f-e87f-4229-8673-887bf5060fe0.png" />
-</a>
-
-## Contributors
-Thanks all contributors. 
-
-<a href="https://github.com/opensource-emr/hospital-management-emr/graphs/contributors" target="_blank">
-  <img src="https://contrib.rocks/image?repo=opensource-emr/hospital-management-emr" />
-</a> <br><br>
 
 
 License

@@ -47,5 +47,5 @@ If you have any issues please send us mail at tapaswinihaldar477@gmail.com more 
 License
 ==============
 
-See the [LICENSE](https://github.com/opensource-emr/hospital-management-emr/blob/master/LICENSE) file.
+See the [LICENSE](https://github.com/TapaswiniHaldar/hospital-management-emr/blob/main/LICENSE) file.
 
